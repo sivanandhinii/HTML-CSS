@@ -1,0 +1,466 @@
+/* -----------------------------Media Query--------------------------------------------------------------------------------------------------- */
+header {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 40px;
+    position: relative;
+}
+#icon1 {
+    position: relative;
+    margin-left: 10px;
+    margin-top: 12px;
+    margin-right: 10px;
+}
+marquee {
+    margin-top: 10px;
+    margin-right: 50%;
+    margin-left: 30%;
+    position: absolute;
+    color: white;
+}
+/* a {
+    color: #2db4be;
+    margin-right: 20px;
+    position: static;
+
+    
+} */
+.fh {
+    list-style: none;
+    background-color: black;
+    position: relative;
+    display: flex;
+    margin-left: 70%;
+    margin-top: -20px;
+}
+#tc {
+    color: #2db4be;
+    margin-top: -10px;
+
+}
+
+
+
+/* nnnnnnnnnnnnnn ------------------------------------------------------------------nnnnnnnnnnnnnnnnhbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb */
+#iconline {
+    padding: 0 3px 0 3px;
+}
+
+#hr1 {
+    width: 98%;
+    margin-left: 0px;
+}
+
+.fe123 {
+    border: 2px solid;
+}
+
+/* nnnnnnnnnnnnnnnnnnnnnnnn-------------------------------------------------------------------------------------------------------nnnnnnnnnnnnnnnnnnnnnnnnnnnnn */
+#icon3 {
+    position: absolute;
+}
+
+hr {
+    width: 85%;
+}
+
+#aa {
+    background-color: #ddd;
+}
+
+#aaa {
+    padding: 2px;
+    margin: 2px 5px 2px 15px;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+    display: inline-block;
+}
+
+ul {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+ul li ul {
+    position: absolute;
+    width: 200px;
+    display: none;
+}
+
+ul li ul li {
+    display: block;
+}
+
+ul li ul li:hover {
+    color: #2db4be;
+}
+
+#icon2 {
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+.sh,
+.shh {
+    text-decoration: none;
+    position: relative;
+    color: #2db4be;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    font-size: small;
+}
+
+
+/* =======------------------------------------------------------------------------------------------------------------------------------------======= */
+#load {
+    border: 2px #ddd solid;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: #ddd;
+    color: black;
+    margin-left: 48%;
+
+}
+
+/* ========================================------------------------------------------------------------============================================= */
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#pg2logo1 {
+    max-height: 50%;
+    max-width: 50%;
+    padding: 7px;
+    margin-left: -9px;
+}
+
+#sa {
+    border: 1px round red;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    padding: 3px 9px 3px 9px;
+
+}
+
+.grid-item3 {
+    display: grid;
+    grid-template-rows: 13% 5% 10% 30% auto;
+    padding: 0 0 0 30px;
+
+}
+
+.grid-item33 {
+    border: dotted black 2px;
+    width: fit-content;
+    padding: 5px;
+    margin: 10px 0 10px 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 26% auto;
+}
+
+.grid-item {
+    display: grid
+}
+
+.grid-item1 {
+    display: grid;
+}
+
+#img2 {
+    height: 530px;
+    width: 380px;
+    margin: auto;
+}
+
+#gridimg {
+    height: 100px;
+    width: 110px;
+    margin: auto;
+    padding: 3px 0 3px 0;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+#two2 {
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 400px;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: smaller;
+    color: blue;
+}
+
+#two22 {
+    padding: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+sub,
+del {
+    color: rgb(135, 125, 125);
+}
+
+th {}
+
+#table {
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    padding: 4px;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------- */
+#top {
+    width: 340px;
+    height: 240px;
+}
+
+#borderm {
+    /* border: 1px solid black; */
+
+}
+
+#table2 {}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------- */
+#customers {
+    width: 230px;
+    height: 290px;
+}
+
+#rate {
+    text-align: center;
+
+}
+
+#customers:hover {
+    border: 1px solid #b4aeae;
+}
+
+#c1:hover {
+    color: black;
+    background-color: #ddd;
+    font-size: large;
+}
+
+#icon2 {
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+
+#icon3 {
+    margin-right: 9px;
+    margin-top: 11px;
+    margin-left: 10px;
+}
+
+#forms {
+    position: relative;
+    margin-top: 9px;
+}
+
+#searchicon {
+    margin-top: 14px;
+    margin-right: 10px;
+}
+
+h6,
+h5 {
+    text-align: center;
+}
+
+
+#three {
+    background-color: grey;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+#two {
+    position: relative;
+    list-style-type: none;
+    color: white;
+}
+
+#twot {
+    background-color: rgb(39, 39, 71);
+    color: white;
+}
+
+#twott {
+    padding-top: 10px;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 23px;
+    font-size: smaller;
+    position: relative;
+}
+
+#h44 {
+    font-size: large;
+    margin-left: 63px;
+    margin-top: 52px;
+    margin-bottom: 0px;
+}
+
+.footer12 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.crow11 {
+    padding: 20px 0 10px 0;
+    margin-left: 49px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.crow1 {
+    padding: 5px;
+    margin-left: 12%;
+}
+
+#f1 {
+    padding-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.crow12 {
+    margin-left: 18%;
+
+}
+
+#two2 {
+    list-style-type: none;
+}
+
+#two {
+    list-style-type: none;
+    color: white;
+}
+
+#twot {
+    background-color: rgb(39, 39, 71);
+    color: white;
+
+}
+
+.oneli1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 5px;
+}
+
+.one1 {
+    padding: 10px;
+    grid-template-columns: 25% 25% 25% 25%;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.one11 {
+    padding: 10px;
+    grid-template-columns: 25% 25% 25% 25%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: smaller;
+    color: rgb(81, 79, 79);
+}
+
+.one {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    background-color: rgb(189, 188, 188);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+h6,
+h5 {
+    text-align: center;
+}
+
+#three {
+    background-color: grey;
+}
+
+/* -----------------------------size------------------------------------------------------------------------------------------------------------ */
+
+#size {
+    display: inline-flex;
+    list-style-type: none;
+
+}
+
+#size1 {
+    padding: 3px 5px 3px 5px;
+    border: 1px solid #5d5c5c;
+    margin: 3px;
+    color: rgb(59, 57, 57);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    border-radius: 3px;
+}
+
+.size2 {
+    margin: auto;
+}
+
+th {
+    color: #3e3e3e;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
+
+#size1:hover {
+    background-color: #8b8989;
+    color: white;
+    border: #8b8989;
+}
+
+/* --------Review------------------------------------------------------------------------------------------------------------------------------------------- */
+
+#revieww1 {
+    background-color: #25c6d5;
+    border: 1ps solid white;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.revieww {}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */

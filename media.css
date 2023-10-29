@@ -1,0 +1,280 @@
+body {
+    background-color: white;
+}
+header {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 40px;
+    position: relative;
+}
+marquee {
+    margin-top: 10px;
+    margin-right: 50%;
+    margin-left: 30%;
+    position: absolute;
+    color: white;
+}
+
+.fh {
+    list-style: none;
+    background-color: black;
+    position: relative;
+    display: flex;
+    margin-left: 70%;
+    margin-top: -20px;
+}
+#icon1 {
+    position: relative;
+    margin-left: 10px;
+    margin-top: 12px;
+    margin-right: 10px;
+}
+#tc {
+    color: #2db4be;
+    margin-top: -10px;
+    text-decoration: none;
+    margin-right: 19px;
+  
+
+}
+.sh,
+.shh {
+    text-decoration: none;
+    position: relative;
+    color: #2db4be;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    font-size: small;
+}
+#love{
+    visibility: hidden;
+}
+/* ===================================================================================================== */
+#icon3 {
+    margin-right: 1px;
+    margin-top: -3px;
+    margin-left: 1px;
+}
+
+#forms {
+    position: relative;
+    margin-top: 9px;
+}
+
+#searchicon {
+    margin-top: 14px;
+    margin-right: 10px;
+}
+/* ---------------------------------------------------------------------------------------------------------------- */
+
+div a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+    display: inline-block;
+}
+
+ul {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+ul li ul {
+    position: absolute;
+    width: 200px;
+    display: none;
+}
+
+ul li ul li {
+    display: block;
+}
+
+ul li ul li:hover {
+    color: #2db4be;
+}
+#aa {
+    background-color: #ddd;
+}
+
+#aaa {
+    padding: 2px;
+    margin: 2px 5px 2px 15px;
+}
+#icon2 {
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+.sh,
+.shh {
+    text-decoration: none;
+    position: relative;
+    color: #2db4be;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    font-size: small;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+#table {
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    padding: 4px;
+    display: flex;
+}
+#customers {
+    width: 230px;
+    height: 290px;
+}
+
+#rate {
+    text-align: center;
+
+}
+#top {
+    width: 340px;
+    height: 240px;
+}
+
+#borderm {
+  
+}
+
+#table2 {}
+
+/* ----------------------------------------------------------------------------------------------------------- */
+@media screen and (max-width: 391px) {
+    *{
+        font-size: xx-small !important;
+    }
+   
+    #icon1 {
+        
+       margin-left: 2px;
+        margin-top: 5px;
+        margin-right: 1px;     
+    }
+    header{
+        max-width: 100%;
+    }
+    
+    marquee {      
+       margin-left: 0;       
+        position: relative;
+        background-color: white;
+        color: black;
+        width: 100%;             
+        margin-top: 18px;
+    }
+.track{
+   display: flex;
+   /* margin-top: -2px;   */
+   height: 15px;
+   max-width: 100%;
+}
+    .fh { 
+        max-width: 100%;
+        margin-left: 100%;
+        position: relative;
+            }
+
+    #tc {
+       color: rgb(234, 225, 225);
+      margin-right: 5px;
+        
+    }
+    .sh,
+    .shh {
+       position: relative;
+   background-color: #ddd;       
+   margin-top: 3px;
+       height: fit-content;
+       max-width: 100%;
+      
+       padding: 1px 0 1px 0;
+    } 
+    #icon2 {
+       visibility: hidden;
+    }    
+        #icon3 {
+        visibility: hidden;
+    }
+    
+    #forms {
+          width: 10px;
+        margin-top: 18px;
+       
+    }
+    
+    #searchicon {
+     position: relative;    
+       margin-left: auto;
+       margin-top: 22px;
+    }
+    #placeholder{
+        max-width: 50px;
+        font-size: xx-small;
+    }
+    #aaa {
+        
+        font-size: 10px;
+        width: fit-content;
+    }
+    #table {
+        border-collapse: none;
+                padding: 0px;
+        display: flex;    
+   }
+
+#customers {
+    max-width: 60%;
+    height: 30%;
+}
+#size1 {
+  list-style-type: none;
+  display: inline-flex;
+    border: 1px solid #5d5c5c;
+    margin: 1px;
+    padding: 1px;    color: rgb(59, 57, 57);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       border-radius: 3px;
+}
+#size1:hover {
+    background-color: #8b8989;
+    color: white;
+    border: #8b8989;
+}
+#rate {
+   list-style-type: none;
+
+}
+#top {
+    width:  100%;
+    height: 70%;
+}
+#borderm {  
+    margin: auto;
+    padding: 0;
+}
+
+#table2 {
+    padding: 0;
+
+}
+
+}
+
+
